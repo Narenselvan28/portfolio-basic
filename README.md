@@ -16,3 +16,5 @@ This is a simple portfolio website built using **HTML** and **CSS**. It consists
 - CSS3  
 
 ## 📂 How to Use  
+Here is the link to access my new portfolio website.
+https://narenselvan28.github.io/portfolio-basic/index.html
